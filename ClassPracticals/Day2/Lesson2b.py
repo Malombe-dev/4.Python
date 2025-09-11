@@ -28,4 +28,3 @@ counties.append("Embu") # Run, It produces an Error!
 
 
 
-

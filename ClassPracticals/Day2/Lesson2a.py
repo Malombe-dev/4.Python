@@ -33,4 +33,14 @@ items.insert(2, "Toyota")
 # Now Print Your List, Notice Toyota at Position 2
 print(items)
 
-# Next, What are Tuples? How do they Differ from Lists?
+# Next, What are Tuples? How do they Differ from Lists?ite
+items.pop()  # Removes the Last Item in the List
+print(items)
+items.pop(1)  # Removes the Item at Index 1
+print(items)    
+
+items.remove("Surf")  # Removes the Item with the Name Surf
+print(items)
+# Now Lets Clear our List   
+items.clear()  # Empties the List
+print(items)  # Prints []
