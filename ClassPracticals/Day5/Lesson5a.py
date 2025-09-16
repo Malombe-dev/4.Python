@@ -28,7 +28,7 @@ def area():
     b = 4
     h = 5
     answer = 1/2 * b * h
-    print('The Area is  ', answer)
+    return answer
 
 
 
